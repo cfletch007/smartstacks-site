@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# VS Code SFTP & workspace
+.vscode/sftp.json
+.vscode/*.code-workspace
+
+# Build/cache (if you add tools later)
+node_modules/
+dist/
+build/
+.cache/
+
